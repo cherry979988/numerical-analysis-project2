@@ -33,6 +33,12 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="main.cpp" />
+		<Unit filename="newton.cpp" />
+		<Unit filename="newton.h" />
+		<Unit filename="ode.cpp" />
+		<Unit filename="ode.h" />
+		<Unit filename="taylor.cpp" />
+		<Unit filename="taylor.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />

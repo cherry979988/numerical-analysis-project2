@@ -2,3 +2,42 @@
 1513876254 source:d:\code\naproject2\main.cpp
 	<iostream>
 
+1514126271 source:d:\documents\2017(秋) 数值分析与算法\numerical-analysis-project2\main.cpp
+	<iostream>
+	<limits>
+	"newton.h"
+	"ode.h"
+	"taylor.h"
+
+1513912311 source:d:\documents\2017(秋) 数值分析与算法\numerical-analysis-project2\essential.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	"essential.h"
+
+1513911786 d:\documents\2017(秋) 数值分析与算法\numerical-analysis-project2\essential.h
+	<iostream>
+
+1513913075 source:d:\documents\2017(秋) 数值分析与算法\numerical-analysis-project2\newton.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	"newton.h"
+
+1513913035 d:\documents\2017(秋) 数值分析与算法\numerical-analysis-project2\newton.h
+	<iostream>
+
+1514125514 d:\documents\2017(秋) 数值分析与算法\numerical-analysis-project2\ode.h
+
+1514125676 source:d:\documents\2017(秋) 数值分析与算法\numerical-analysis-project2\ode.cpp
+	<iostream>
+	<iomanip>
+	"ode.h"
+
+1513924723 d:\documents\2017(秋) 数值分析与算法\numerical-analysis-project2\taylor.h
+
+1513925168 source:d:\documents\2017(秋) 数值分析与算法\numerical-analysis-project2\taylor.cpp
+	<iostream>
+	<iomanip>
+	"taylor.h"
+
