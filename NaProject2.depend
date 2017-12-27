@@ -2,7 +2,7 @@
 1513876254 source:d:\code\naproject2\main.cpp
 	<iostream>
 
-1514126271 source:d:\documents\2017(秋) 数值分析与算法\numerical-analysis-project2\main.cpp
+1514383637 source:d:\documents\2017(秋) 数值分析与算法\numerical-analysis-project2\main.cpp
 	<iostream>
 	<limits>
 	"newton.h"
@@ -18,7 +18,7 @@
 1513911786 d:\documents\2017(秋) 数值分析与算法\numerical-analysis-project2\essential.h
 	<iostream>
 
-1513913075 source:d:\documents\2017(秋) 数值分析与算法\numerical-analysis-project2\newton.cpp
+1514210897 source:d:\documents\2017(秋) 数值分析与算法\numerical-analysis-project2\newton.cpp
 	<iostream>
 	<cmath>
 	<iomanip>

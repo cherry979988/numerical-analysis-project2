@@ -13,8 +13,8 @@ int main()
 
     while (true){
 		cout << "Please select: " << endl << "1. Taylor series" << endl;
-		cout << "2. Integration using trapezoid method" << endl;
-		cout << "3. Integration using improved Euler method" << endl;
+		cout << "2. Integral using trapezoid method" << endl;
+		cout << "3. Integral using improved Euler method" << endl;
 		cout << "4. Solving equation using Newton's method" << endl;
 		cout << "Input other keys to quit." << endl;
 		cin >> c;
